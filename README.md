@@ -4,6 +4,10 @@ Supplementary material and simulations for the paper:
 **"Robust Output Feedback Control with Predefined State Boundaries for Multi-Rotor Systems"**  
 Gerardo Flores, Almuatazbellah M. Boker, Mohammad Al Janaideh, and Mark W. Spong
 
+# Supplementary Files and Simulations for:  
+**Robust Output Feedback Control with Predefined State Boundaries for Multi-Rotor Systems**
+
+
 ---
 
 ## 📄 Description
