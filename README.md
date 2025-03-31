@@ -20,8 +20,15 @@ The goal is to provide insight into the theoretical developments and validate th
 ---
 
 ## 📁 Repository Structure
-multi-rotor-output-feedback/ ├── paper.pdf ← Full paper ├── supplementary_material.pdf ← Supplementary material ├── simulations/ ← Simulink files and scripts │ ├── model.slx │ ├── parameters.m │ └── results/ ├── figures/ ← Additional plots (optional) └── README.md
 
+- `paper.pdf` – Full paper
+- `supplementary_material.pdf` – Supplementary material
+- `simulations/` – Simulink files and scripts
+  - `model.slx`
+  - `parameters.m`
+  - `results/`
+- `figures/` – Additional plots (optional)
+- `README.md`
 
 ---
 
