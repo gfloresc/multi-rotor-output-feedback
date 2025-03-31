@@ -20,4 +20,33 @@ The goal is to provide insight into the theoretical developments and validate th
 ---
 
 ## 📁 Repository Structure
+multi-rotor-output-feedback/ ├── paper.pdf ← Full paper ├── supplementary_material.pdf ← Supplementary material ├── simulations/ ← Simulink files and scripts │ ├── model.slx │ ├── parameters.m │ └── results/ ├── figures/ ← Additional plots (optional) └── README.md
 
+
+---
+
+## 🧪 Simulations
+
+The simulation files demonstrate the performance of the proposed controller under aggressive disturbances and predefined boundary constraints. Open the `.slx` file in MATLAB/Simulink and run `parameters.m` to initialize the system.
+
+---
+
+## 📚 Citation
+
+Please cite the original paper if you use any part of this repository:
+
+[To be updated once published – add BibTeX or conference citation here]
+
+
+---
+
+## 📬 Contact
+
+For questions or collaborations, contact:  
+[gerardo.flores@tamiu.edu](mailto:gerardo.flores@tamiu.edu)
+
+---
+
+## 📝 License
+
+This repository is distributed under the [MIT License](LICENSE).
