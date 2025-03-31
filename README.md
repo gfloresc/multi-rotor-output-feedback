@@ -40,8 +40,16 @@ The simulation files demonstrate the performance of the proposed controller unde
 
 Please cite the original paper if you use any part of this repository:
 
-[To be updated once published – add BibTeX or conference citation here]
-
+```bibtex
+@inproceedings{flores2025robust,
+  author    = {Gerardo Flores and Almuatazbellah M. Boker and Mohammad Al Janaideh and Mark W. Spong},
+  title     = {Robust Output Feedback Control with Predefined State Boundaries for Multi-Rotor Systems},
+  booktitle = {Proceedings of the 64th IEEE Conference on Decision and Control (CDC)},
+  year      = {2025},
+  address   = {Rio de Janeiro, Brazil},
+  month     = dec,
+  note      = {Submitted},
+}
 
 ---
 
